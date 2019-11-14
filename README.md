@@ -5,5 +5,8 @@
 *kui aega on, siis võiks teha n-ö interaktiivse mängulaadse asja, kus saab kohe proovida lünka sõna kirjutada ja siis ütleb, kas vale või õige
 
 mida veel teha:
-panna kõik kokku ühte programmi
-lugeda pdf faili, mitte .txt laiendiga faili
+1)lugeda pdf faili, mitte .txt laiendiga faili
+2)kontrollida, kas vastus oli õige, öelda seda kasutajale (+ saaks veel teha, et kui vale, siis küsib uuesti vastust, saaks näidata õiget vastust vms)
+3)mitte võtta suvaline sõna tekstist, vaid masinõppe abil valida õige
+4) easygui asemel kasutada tkinterit? sest seal natuke rohkem valikuvabadust, saaks kujundust ka teha jms)
+

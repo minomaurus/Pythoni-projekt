@@ -7,6 +7,6 @@
 mida veel teha:
 1)lugeda pdf faili, mitte .txt laiendiga faili
 2)kontrollida, kas vastus oli õige, öelda seda kasutajale (+ saaks veel teha, et kui vale, siis küsib uuesti vastust, saaks näidata õiget vastust vms)
-3)mitte võtta suvaline sõna tekstist, vaid masinõppe abil valida õige
+3)mitte võtta suvaline sõna tekstist, vaid mingitele kriteeriumitele vastav, nt veidi pikem sõna vms (masinõpe läheks ilmselt liiga keeruliseks)
 4) easygui asemel kasutada tkinterit? sest seal natuke rohkem valikuvabadust, saaks kujundust ka teha jms)
 

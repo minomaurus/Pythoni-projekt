@@ -5,6 +5,7 @@ from tkinter import messagebox
 from functools import partial
 import sys
 import os
+# -*- coding: utf-8 -*-
 
 # teeme faili sisu lausete listiks
 fail = input("Sisestage tekstifaili nimi: ")
